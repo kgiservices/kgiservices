@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript & Python Django
 - 💞️ I’m looking to collaborate for Learning
 - 📫 How to reach me :- WhatsApp - wa.me/919105155027 Call:- (+91)-9105155027 
--     Visit:- www.kgiservices.in  E-mail id.:-shivamchandrakandwal@gmail.com
+-    Visit:- www.kgiservices.in  E-mail id.:-shivamchandrakandwal@gmail.com
 
 <!---
 Shivam Kandwal/kgiservices is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
